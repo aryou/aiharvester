@@ -1,0 +1,12 @@
+/.idea
+.project
+*.project
+*.swp
+*.sublime-project
+*.sublime-workspace
+/build
+/vendor/
+.DS_Store
+/aiharvester
+/aiharvester.test
+*.pyc
